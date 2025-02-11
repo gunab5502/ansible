@@ -1,0 +1,5 @@
+---
+java_package: "openjdk-17-jdk"
+jenkins_repo_url: "https://pkg.jenkins.io/debian-stable"
+gpg_key_url: "https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key"
+
