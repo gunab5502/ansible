@@ -1,0 +1,8 @@
+---
+- name: "Playbook to install Jenkins on server"
+  hosts: all
+  become: true
+  gather_facts: yes
+  roles:
+    - jenkins
+
